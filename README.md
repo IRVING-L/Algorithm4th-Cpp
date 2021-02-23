@@ -10,9 +10,9 @@
 
   当前的网页地址：```https://github.com/IRVING-L/Algorithm4th-Cpp```
 
-  ![image-20210223211259519](https://github.com/IRVING-L/Algorithm4th-Cpp/blob/main/img/image-20210223211259519.png)
+  ![image-20210223211259519](https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/image-20210223211259519.png)
 
   对网页地址作如下更改：```https://github1s.com/IRVING-L/Algorithm4th-Cpp```
 
-  ![image-20210223211335533](C:\Users\LJ\AppData\Roaming\Typora\typora-user-images\image-20210223211335533.png)
+  ![image-20210223211335533](https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/image-20210223211335533.png)
 
