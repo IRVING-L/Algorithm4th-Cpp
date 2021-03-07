@@ -1,2 +1,2 @@
-Union-Find算法赏析
+Union-Find算法简析
 
