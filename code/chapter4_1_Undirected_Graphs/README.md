@@ -80,8 +80,8 @@
 
 问题 | 解决方法 
 :-----------: | :-----------: 
-单点连通性        | [DepthFirstSearch](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/DepthFirstSearch.java)   
-单点路径         | [DepthFirstPaths](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/DepthFirstPaths.java)       
+单点连通性        | [DepthFirstSearch](https://github.com/IRVING-L/Algorithm4th-Cpp/blob/main/code/chapter4_1_Undirected_Graphs/DepthFirstSearch.h) 
+单点路径         | [DepthFirstPaths](https://github.com/IRVING-L/Algorithm4th-Cpp/blob/main/code/chapter4_1_Undirected_Graphs/DepthFisrtPaths.h) 
 单点最短路径         | [BreadthFirstPaths](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)   
 连通性         | [CC](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/CC.java)、union-find  
 检测环         | [Cycle](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/Cycle.java)  
