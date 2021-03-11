@@ -23,7 +23,7 @@ public:
 		root = new BagNode;
 		root->next = nullptr;
 	}
-	/*~Bag()
+	~Bag()
 	{
 		while (root)
 		{
@@ -31,7 +31,7 @@ public:
 			root = root->next;
 			delete temp;
 		}
-	}*/
+	}
 	//³ÉÔ±º¯Êý
 	void add(T item)
 	{
