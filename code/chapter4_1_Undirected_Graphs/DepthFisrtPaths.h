@@ -40,6 +40,11 @@ public:
 		//深度优先遍历函数
 		dfs(G, s);
 	}
+	~DepthFirstPaths()
+	{
+		delete[] marked;
+		delete[] edgeTo;
+	}
 	//成员函数
 	bool hasPathTo(int v) { return marked[v]; }//判断顶点是否被访问过
 	//用栈保存从起点到某顶点v的遍历路径，栈是创建在堆区的，用指针指向其首地址，可以返回其首地址

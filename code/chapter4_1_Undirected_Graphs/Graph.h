@@ -29,6 +29,10 @@ public:
 		int v, w;
 		while (infile >> v >> w) addEdge(v, w);
 	}
+	~Graph()
+	{
+		delete[] adj;
+	}
 	//成员函数，用两个顶点创建一条边
 	void addEdge(int v, int w)
 	{
