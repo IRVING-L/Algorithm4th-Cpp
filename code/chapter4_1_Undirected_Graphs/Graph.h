@@ -51,5 +51,5 @@ public:
 	}
 	int Vnum() { return V; }//对外接口：返回类中的顶点数
 	int Enum() { return E; }//对外接口：返回类中的边数
-	auto adjData(int v) { return adj[v]; }//对外接口：返回指定顶点v所相邻的顶点们，用背包Bag存储的
+	auto& adjData(int v) { return adj[v]; }//对外接口：返回指定顶点v所相邻的顶点们，用背包Bag存储的
 };
